@@ -105,13 +105,16 @@ else:
 ```
 ## Sample Input and Output
 
-![Alt text](<Screenshot 2023-12-14 205145.png>)
-![Alt text](<Screenshot 2023-12-14 205159.png>)
-![Alt text](<Screenshot 2023-12-14 205214-1.png>)
+![Screenshot 2023-12-14 205145](https://github.com/Rithikachezhian/Search-Algorithm/assets/145742406/0e08f267-28e5-438c-9252-808f4c6ee9dd)
+![Screenshot 2023-12-14 205159](https://github.com/Rithikachezhian/Search-Algorithm/assets/145742406/d282ad15-725d-4774-bad3-1fe06eafa3ad)
+![Screenshot 2023-12-14 205214](https://github.com/Rithikachezhian/Search-Algorithm/assets/145742406/f080da64-e360-473d-a90e-664a036424ae)
 
 
-![Alt text](<Screenshot 2023-12-14 205744.png>)
-![Alt text](<Screenshot 2023-12-14 205801.png>)
+
+
+
+![Screenshot 2023-12-14 205744](https://github.com/Rithikachezhian/Search-Algorithm/assets/145742406/ff45f889-f80b-442d-beca-e8576641b402)
+![Screenshot 2023-12-14 205801](https://github.com/Rithikachezhian/Search-Algorithm/assets/145742406/8d27d55c-ac94-4f81-84b5-e195b12ff421)
 ![Screenshot 2023-12-14 205818](https://github.com/Rithikachezhian/Search-Algorithm/assets/145742406/90d1374c-8dba-4223-badf-1d41b3e81d4b)
 
 
