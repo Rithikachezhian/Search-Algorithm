@@ -112,7 +112,8 @@ else:
 
 ![Alt text](<Screenshot 2023-12-14 205744.png>)
 ![Alt text](<Screenshot 2023-12-14 205801.png>)
-![Alt text](<Screenshot 2023-12-14 205818.png>)
+![Screenshot 2023-12-14 205818](https://github.com/Rithikachezhian/Search-Algorithm/assets/145742406/90d1374c-8dba-4223-badf-1d41b3e81d4b)
+
 
 
 ## Result
